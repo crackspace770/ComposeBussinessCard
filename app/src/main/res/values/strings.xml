@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeBussinessCard</string>
+    <string name="full_name">Fajar Setyawan</string>\
+    <string name="job_title">Android Developer</string>
+    <string name="phone">+6281XXXXXX989</string>
+    <string name="social">FajarDev</string>
+    <string name="email">fajar@mail.com</string>
+</resources>
